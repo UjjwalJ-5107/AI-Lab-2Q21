@@ -5,6 +5,8 @@ HDFC Bank Ltd. aims to improve its loan processing efficiency by predicting whet
 
 
 Dataset(s) used for AI model 1 are: 
-
+HDFC:
 https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
+Amazon:
+https://www.kaggle.com/datasets/lakshay156/synthetic-e-commerce-delivery-delay-risk-dataset
 
